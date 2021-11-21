@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my blog (first time making github pages with jekyll)"
 ---
 
 Hey, so this is my first github pages, and i think i wanna make it as my profile
